@@ -1,0 +1,21 @@
+# Unidade 1
+- Circuitos _(elétricos)_ oscilantes são representados por equações diferenciais do mesmo tipo das equações mecânicas. Portanto, a análise é análoga à de um sistema _(mecânico)_ e os resultados obtidos para um sistema mecânico vibrante pode ser estendido para um circuito elétrico equivalente e _(vice-versa_). 
+- Considere um sistema mecânico composto por uma Massa m, um amortecedor com Coeficiente de amortecimento viscoso c e uma mola com Rigidez k. Neste sistema é aplicada uma Força F(t). Na construção de um análogo elétrico, julgue as afirmativas a seguir, sobre como devemos substituir os componentes mecânicos por componentes elétricos:
+    - (V) I. A Força mecânica F(t) é substituída pela Voltagem E(t).
+    - (V) II. A Massa m é substituída pela Indutância L.
+    - (V) III. O Coeficiente de amortecimento viscoso c é substituído pela Resistência R.
+    - (V) IV. A rigidez da mola k, é substituída pelo inverso da capacitância, ou seja, 1/C.
+- A energia acústica, vem de uma onda sonora, que pode ser definida como uma onda mecânica longitudinal que causa variações de pressão ao mover as partículas do meio que ela está utilizando para se propagar. Já a energia elétrica é proveniente das correntes elétricas, que são fluxos de cargas devidos a uma diferença de potencial ou tensão elétrica em um condutor, isto ocorre através de interações de campos elétricos e campos magnéticos.
+    - Entender estes conceitos é importante para o estudo de:
+    - (V) a. Sistemas eletroacústicos.
+- Em relação às analogias entre os 3 domínios elétrico, mecânico e acústico de um microfone, julgue as afirmativas a seguir:
+    - (F) I. Na analogia acústica ocorre a conversão da eletricidade em movimento.
+        - Deveria haver conversão para ondas acústicas
+    - (V) II. Na analogia mecânica a onda sonora movimenta as partes móveis
+    - (V) III. Na analogia elétrica ocorre a conversão do movimento em um sinal elétrico.
+- Comparando os dispositivos eletroacústicos, temos que seus esquemas apresentam as energias envolvidas:
+    - I. Energia Acústica.
+    - II. Energia Elétrica.
+    - III. Energia Vibracional.
+    - Relacione as energias na ordem da transformação para um (a) microfone e (b) alto-falante.
+        - (V) d. I-III-II e II-III-I

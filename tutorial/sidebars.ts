@@ -17,7 +17,7 @@ const sidebars: SidebarsConfig = {
   // But you can create a sidebar manually
   /*
   tutorialSidebar: [
-    'conceitos/eletroacustica',
+    'conceitos/ondas-sonoras',
     'hello',
     {
       type: 'category',
