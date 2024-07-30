@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Projeto Acústico',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Especificações do projetista...
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Tutoriais e Instruções sobre Ondas Sonoras',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Física ondulatória, circuitos eletroacústicos
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Tutoriais e Instruções sobre Equipamentos Acústicos',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Microfone, auto-falante
       </>
     ),
   },

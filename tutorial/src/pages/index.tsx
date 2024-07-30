@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/conceitos/ondas-sonoras">
-            Tutorial - 5min ⏱️
+            Projeto Acústico e Tutoriais
           </Link>
         </div>
       </div>
