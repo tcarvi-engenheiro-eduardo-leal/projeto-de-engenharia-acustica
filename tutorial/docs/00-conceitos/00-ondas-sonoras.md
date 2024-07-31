@@ -1,48 +1,76 @@
 # Ondas Sonoras
-- São ondas do tipo longitudinais
-- A oscilação da onda ocorre na direção da sua propagação
+- São ondas do tipo **longitudinais**.
+    - A oscilação da onda sonora ocorre na direção da sua propagação.
 - Ondas sonoras são caracterizadas por:
-    - Pressão Sonora
-    - Velocidade das partículas movimentadas pela onda
-
-## Conceitos
-- Pressão Sonora 
+    - **Pressão Sonora** (P)  
+        - $$ P = \frac{For\char"00E7 aDeMovimenta\char"00E7 ãoDasPartículasDeAr}{ÁreaDaSuperfícieQueSofreAFor\char"00E7 a} $$
+    - **Comprimento de Onda**($\lambda$)  
+        - $$\lambda = Espa\char"00E7 oDeRepeti\char"00E7 ãoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
+        - $$\lambda = Espa\char"00E7 oCompletoDaOscila\char"00E7 ãoDoMovimentosDeparículasDeArNoTrajetoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
+    - **Amplitude de Onda** ($A$)  
+        - $$ A = Espa\char"00E7 oMáximoDeOscila\char"00E7 ãoDaOndaEmRela\char"00E7 ãoÀPosi\char"00E7 ãoDeEquilíbrio$$
+    - **Período de Onda** ($\tau$)
+        - $$\tau = TempoDeRepeti\char"00E7 ãoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
+        - $$\tau = TempoDeRepeti\char"00E7 ãoDaOscila\char"00E7 ãoDasPartículasDeArNoPercursoLongituninalDaOnda$$
+    - **Frequência de Onda**($f$)
+        - $$ f = \frac{PercursosDoComprimentoDeOnda}{1 \space segundo} = \frac{1}{\tau}$$
+    - **Velocidade de Onda** ($v$)  
+        - $$ v = \frac{ComprimentoDaOnda}{PeríodoDaOnda} = \frac{\lambda}{\tau} = \lambda . f $$
+    - **Velocidade de Oscilação das Partículas Movimentas pela Onda**  
+        - $$ v_{ParticulasDeAr} = \frac{Espa\char"00E7 oDoMovimentoVibratório}{IntervaloDeTempoDestaParteDoMovimentoVibratório} $$
+    - **Equação de Onda**
+        - $ y(t) = A \sin( \omega t + \phi) $
+## Maior detalhamento dos Conceitos
+- **Pressão Sonora** ($ P $ ):
+    - $$ P = \frac{For\char"00E7 aDeMovimenta\char"00E7 ãoDasPartículasDeAr}{ÁreaDaSuperfícieQueSofreAFor\char"00E7 a} $$
     - É um excesso de pressão sobre a pressão atmosférica.
-- Velocidade das Partículas
-    - É a velocidade média das moleculas de gás, em um pequeno volume.
-    - Grandeza vetorial
-- Comprimento de Onda:
-    - Distância, na direção longitunial, até onde a onda se repete.
-    - Depende tanto da velocidade do som no meio quando da frequência de oscilação.
-- Frequência de Onda:
-- Período de Onda:
-- Amplitude de Onda:
-- Equação de Onda:
+    - Vincula-se com a alteração da Força e da Velocidade de Oscilação das Partículas Movimentas pela Onda.
+    - Não se vincula com a alteração da velocidade total do movimento ondulatório, mas apenas com a mudança de velocidade das partículas movimentadas durante o período da oscilação.
+- **Comprimento de Onda** ($\lambda$):
+    - Distância, na direção longitudinal, até onde a onda se repete.
+- **Período de Onda** ($\tau$):
+    - É o tempo necessário, em segundos, para que uma oscilação longitudinal completa ocorra.
+- **Frequência de Onda**:
+    - $$ f = \frac{PercursosDoComprimentoDeOnda}{1 \space segundo} = \frac{1}{\tau}$$
+    - Quantidadades de repetições de movimento na distância do comprimento de onda durante o tempo de 1 segundo.
+- **Velocidade de Onda** ($v$):
+    - $$ \frac{ComprimentoDaOnda}{PeríodoDaOnda} = \frac{\lambda}{\tau} = \lambda . f $$
+    - Depende da densidade e da elasticidade do meio. 
+    - Grandeza vetorial de magnitude constante, se não ocorrer mudanças no meio de propagação.
+    - A velocidade do som no ar, à temperatura de 20 graus celsius, é aproximadamente 343 m/s.
+- **Amplitude de Onda** ($A$):
+    - É a distância máxima que as partículas do meio se afastam (oscilam) de suas posições de equilíbrio devido à onda sonora.
+- **Velocidade da Oscilação das Partículas Movimentas pela Onda** ($v$)
+    - $$ v_{ParticulasDeAr} = \frac{Espa\char"00E7 oDoMovimentoVibratório}{IntervaloDeTempoDestaParteDoMovimentoVibratório} $$
+    - Velocidade das Partículas movimentas pela onda.
+    - É a velocidade média das moleculas de gás, em um pequeno volume, movimentadas pela onda sonora.
+    - A velocidade muda durante o percurso devido diferenças de pressão, durante a propagação.
+    - Grandeza vetorial que pode ter sua magnitude alterada, durante o percurso longitudinal.
+- **Equação de Onda**:
     - Originada da:
         - equação de movimento
         - equação da continuidade
         - e de uma equação de estado que descreve as propriedades termodinâmicas do meio.
-    - Ao se aplicar uma tensão alternada em uma circuito análogo de sistema eletroacústico, surge uma corrente elétrica (i).
-    - Fórmula de tensão alternada:
-        - $ E(t) = E_m \sin( \omega t + \phi) $
-        - onde:
-            - E(t) é a tensão em função do tempo
-            - $ E_m $ é a amplitude da tensão
-            - $ \omega $ é a frequência angular = $2 \pi f $
-            - $ \phi $ é a fase inicial
+    - Ao se aplicar uma **tensão alternada** em um **circuito análogo de sistema eletroacústico**, surge uma **corrente elétrica (i)**.
+        - Fórmula de tensão alternada:
+            - $ V_{AC}(t) = A \sin( \omega t + \phi) $
+            - onde:
+                - $ V_{AC}(t) $ é a **tensão alternada em função do tempo**.
+                - $ A $ é a **amplitude do movimento senoidal**.
+                - $ \omega $ é a **frequência angular do movimento senoidal** = $2 \pi f$.
+                - $ \phi $ é a **fase inicial do movimento senoidal**.
 
 ## Sinais senoidais da acústica
-- O som é uma onda que se comporta com um sinal alternado.
+- O som é uma onda que se movimenta com um sinal alternado.
+    - A onda sonora movimenta partículas para frente e para trás,durante seu percurso longitudinal, mas gerando movimentação longitudinal da energia acústica.
     - A onda da transmissão do som não é eletromagnética, como a da luz.
     - O som é transmitido por onda **mecânica**. Sua onda é **vibracional**.
-- As frequências do som, no audível, estão entre 20 Hz e 20KHz.
-- Os comprimentos de onda se encontram entre 17m até 17mm.
-- Equação da velocidade da onda sonora:
-    - $ \nu = \lambda . f $
-        - onde:
-            - $ \nu $ é velocidade da onda
-            - $ \lambda $ é o comprimento de onda
-            - $ f $ é a frequência da onda
-- Os valores de **comprimento de onda**, **frequência de onda** e **velocidade** de ondas eletromagnéticas que percorrem um circuito elétrico são **bastante diferentes** dos valores das ondas acústicas. **Não se pode considerar estes valores como iguais**!
-    - Mesmo com estas diferenças, pode-se usar um circuito elétrico oscilante, análogo com as variáveis da acústica, para a análise da transdução acústica.
-- A velocidade do som no ar é 340m/s. Em materiais sólidos do circuito elétrico, estas velocidades variam.
+- As frequências do som, no audível, estão entre **20 Hz e 20KHz**.
+    1.	**Baixa Frequência: 20 Hz a 250 Hz**
+	2.	**Média Frequência: 250 Hz a 4.000 Hz (ou 4 kHz)**
+	3.	**Alta Frequência: 4.000 Hz a 20.000 Hz (ou 20 kHz)**
+- Pessoas mais jovens geralmente conseguem ouvir melhor as frequências mais altas do que as pessoas mais velhas.
+    - Em muitos casos, a capacidade de ouvir frequências acima de 15.000 Hz diminui significativamente com a idade.
+- Os comprimentos de onda se encontram entre **17m até 17mm**.
+- Os valores de **comprimento de onda**, **frequência de onda** e **velocidade** de ondas eletromagnéticas que percorrem um circuito elétrico são **bastante diferentes** dos valores das ondas acústicas. **Não se pode considerar conceitualmente estes valores como iguais**!
+    - **Mesmo com estas diferenças, pode-se usar um circuito elétrico oscilante, análogo com as variáveis da acústica, para a análise da transdução acústica**.
