@@ -62,7 +62,7 @@
 
 ## Sinais senoidais da acústica
 - O som é uma onda que se movimenta com um sinal alternado.
-    - A onda sonora movimenta partículas para frente e para trás,durante seu percurso longitudinal, mas gerando movimentação longitudinal da energia acústica.
+    - A onda sonora movimenta partículas para frente e para trás, durante seu percurso longitudinal, mas gerando movimentação longitudinal da energia acústica.
     - A onda da transmissão do som não é eletromagnética, como a da luz.
     - O som é transmitido por onda **mecânica**. Sua onda é **vibracional**.
 - As frequências do som, no audível, estão entre **20 Hz e 20KHz**.
