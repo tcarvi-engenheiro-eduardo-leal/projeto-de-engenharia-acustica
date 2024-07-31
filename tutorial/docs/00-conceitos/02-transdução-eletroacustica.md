@@ -1,12 +1,12 @@
 # Transdução Eletroacústica
-- Conversão entre si dos tipos de energia do sistema eletroacústico:
-    - Energia Mecânica
-    - Energia Elétrica
-    - Energia Acústica
-- Principais formas de conversão, em sistemas eletroacústicos:
-    - Coversão Magnetoestática
-        - Ocorre entre imã permanente e uma bobina móvel
-    - Conversão Eletroestática
-        - Ocorre com uma membrana móvel carregada eletricamente, ou seja, um capacitor típico
-    - Conversão Piezoelétrica
-        - Ocorre com a deformação de certos materiais que geram diferença de potencial elétrico
+- Conversão dos tipos de energia do sistema eletroacústico:
+    - **Energia Mecânica**
+    - **Energia Elétrica**
+    - **Energia Acústica**
+- Principais formas de conversão, nos sistemas eletroacústicos:
+    - **Conversão Magnetoestática**
+        - Ocorre entre imã permanente e uma bobina móvel.
+    - **Conversão Eletroestática**
+        - Ocorre com uma membrana móvel carregada eletricamente, ou seja, um capacitor típico.
+    - **Conversão Piezoelétrica**
+        - Ocorre com a deformação de certos materiais que geram diferença de potencial elétrico.
