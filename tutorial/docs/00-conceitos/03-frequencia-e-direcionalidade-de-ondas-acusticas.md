@@ -4,6 +4,7 @@
 - **Ondas Sonoras de Baixa Frequência (20 HZ até 250 Hz)**:
     - **Sons referidos como graves**.
         - Exemplos incluem o som de um **trovão** ou o **ronco de um motor**.
+        - Têm comprimentos de onda mais longos e podem viajar maiores distâncias sem perder muita energia. Eles são mais difíceis de localizar e podem penetrar através de paredes e outros obstáculos mais facilmente.
     - O fluxo de oscilação espacial das partículas de ar, nas ondas de mais baixa frequência, é  direcionado para mais direções. (Não há o foco em apenas algumas direções **menos direcional**.)    
         - Motivo:
             - Propriedades físicas e geométricas da propagação das ondas. 
@@ -18,6 +19,7 @@
 - **Ondas Sonoras de Alta Frequência (de 2.000 Hz até cerca de 20.000 Hz)**:
     - **Sons referidos como agudos**.
         - Exemplos incluem o **som de um apito** ou o **canto de um pássaro**.
+        - Têm comprimentos de onda mais curtos e são mais direcionais. Eles são mais facilmente absorvidos por materiais e são mais fáceis de localizar em termos de origem.
     - O fluxo de oscilação espacial das partículas de ar, nas ondas de mais alta frequência, é  direcionado para menos direções. (É focado em poucas direções: **mais direcional**.)
         - Motivo:
             - Propriedades físicas e geométricas da propagação das ondas. 
@@ -35,9 +37,12 @@
     - o comprimento de onda
 - **A difração altera apenas a disposição da forma de transmissão da onda**
     -  A depender do local de passagem, muda a forma da frente de onda.
+    -  A depender do local de passagem, pode-se mudar bastante a direção de propagação da onda.
 - **Há a maior ocorrência da difração quando o comprimento de onda é comparável ao tamanho do obstáculo ou à sua abertura.**
-- Ondas de baixa frequência (comprimentos de onda longos) difratam mais facilmente e se espalham amplamente ao redor de obstáculos e através de aberturas.
-- Já ondas de alta frequência (comprimentos de onda curtos) difratam menos e tendem a seguir caminhos mais retos, resultando em uma propagação mais direcional.
+- **Ondas de baixa frequência (comprimentos de onda longos)**
+    - Difratam mais facilmente e se espalham amplamente ao redor de obstáculos e através de aberturas.
+- **Ondas de alta frequência (comprimentos de onda curtos)**
+    - Difratam menos e tendem a seguir caminhos mais retos, resultando em uma propagação mais direcional.
 - Ver simulação em: falstad.com
 
 ## Microfones apra ondas sonoras de alta frequência

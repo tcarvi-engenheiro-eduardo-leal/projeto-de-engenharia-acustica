@@ -1,7 +1,8 @@
 # Impedância e Admitância Acústica
-- São quantidades complexas depedentes da frequência.
-- Possuem uma parte real que é chamada de resistência.
-- E possuem uma parte imaginária chamada de reatância.
+- Conceitos que dependem da **frequência da onda**.
+- A representação do conceito **reatância** pode ser feita por números complexos:
+    - **A parte real do número complexo é chamada de resistência**.
+    - **A parte imaginária do número complexo é chamada de reatância**.
 
 ## Impedância Acústica
 -  $ Z_A = \frac \rho Q $

@@ -18,8 +18,16 @@
         - $$ v = \frac{ComprimentoDaOnda}{PeríodoDaOnda} = \frac{\lambda}{\tau} = \lambda . f $$
     - **Velocidade de Oscilação das Partículas Movimentas pela Onda**  
         - $$ v_{ParticulasDeAr} = \frac{Espa\char"00E7 oDoMovimentoVibratório}{IntervaloDeTempoDestaParteDoMovimentoVibratório} $$
-    - **Equação de Onda**
-        - $ y(t) = A \sin( \omega t + \phi) $
+    - **Equação Senoidal de Onda**
+        - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
+            - $ y(x,t) = A \sin(kx - \omega t + \phi) $
+       - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
+            - $ y(t) = A \sin( \omega t + \phi) $
+    - **Equação Cosenoidal de Onda**
+        - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
+            - $ y(x,t) = A \cos(kx - \omega t + \phi) $
+        - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
+            - $ y(t) = A \cos( \omega t + \phi) $
 ## Maior detalhamento dos Conceitos
 - **Pressão Sonora** ($ P $ ):
     - $$ P = \frac{For\char"00E7 aDeMovimenta\char"00E7 ãoDasPartículasDeAr}{ÁreaDaSuperfícieQueSofreAFor\char"00E7 a} $$
@@ -46,7 +54,20 @@
     - É a velocidade média das moleculas de gás, em um pequeno volume, movimentadas pela onda sonora.
     - A velocidade muda durante o percurso devido diferenças de pressão, durante a propagação.
     - Grandeza vetorial que pode ter sua magnitude alterada, durante o percurso longitudinal.
-- **Equação de Onda**:
+- **Equação Senoidal de Onda**:
+    - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
+            - $ y(x,t) = A \sin(kx - \omega t + \phi) $
+                - onde:
+                    - $ y(x,t) $ é o **deslocamento longitudinal** da propagação.
+                    - $ A $ é a **amplitude do movimento senoidal**.
+                    - $ \omega $ é a **frequência angular do movimento senoidal** = $\frac{2 \pi}{\tau} = 2 \pi f$.
+                    - $ \phi $ é a **fase inicial do movimento senoidal** que indica o deslocamento inicial da onda no tempo ($t$) = 0 e na posição ($x$) de oscilação = 0.
+                    - $ k $ é o **número de onda** = $\frac{2 \pi}{\lambda}$. Indica quantas ondas completas existem por unidade de comprimento. É inversamente proporcional ao comprimento de onda ($\lambda$).
+    - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
+            - $ y(t) = A \sin( \omega t + \phi) $
+    - Para onda harmônica simples.
+    - Motivo da escolha desta equação, ao invés da equação cosenoidal:
+        - O valor da função seno é a **amplitude da onda** ($A$)  quando  t = 0 , e quando  $\phi$ também é igual a 0.
     - Originada da:
         - equação de movimento
         - equação da continuidade
@@ -58,8 +79,21 @@
                 - $ V_{AC}(t) $ é a **tensão alternada em função do tempo**.
                 - $ A $ é a **amplitude do movimento senoidal**.
                 - $ \omega $ é a **frequência angular do movimento senoidal** = $2 \pi f$.
-                - $ \phi $ é a **fase inicial do movimento senoidal**.
-
+                - $ \phi $ é a **fase inicial do movimento senoidal** que indica o deslocamento inicial da onda no tempo ($t$) = 0 e na posição ($x$) de oscilação = 0.
+- **Equação Cosenoidal de Onda**:
+    - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
+            - $ y(x,t) = A \cos(kx - \omega t + \phi) $
+                - onde:
+                    - $ y(x,t) $ é o **deslocamento longitudinal** da propagação.
+                    - $ A $ é a **amplitude do movimento cosenoidal**.
+                    - $ \omega $ é a **frequência angular do movimento cosenoidal** = $\frac{2 \pi}{\tau} = 2 \pi f$.
+                    - $ \phi $ é a **fase inicial do movimento cosenoidal** que indica o deslocamento inicial da onda no tempo ($t$) = 0 e na posição ($x$) de oscilação = 0.
+                    - $ k $ é o **número de onda** = $\frac{2 \pi}{\lambda}$. Indica quantas ondas completas existem por unidade de comprimento. É inversamente proporcional ao comprimento de onda ($\lambda$).
+    - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
+            - $ y(t) = A \cos( \omega t + \phi) $
+    - Para onda harmônica simples.
+    - Motivo da escolha desta equação, ao invés da equação senoidal:
+        - O valor da função coseno é igual a **zero** quando  t = 0 , e quando  $\phi$ também é igual a 0.
 ## Sinais senoidais da acústica
 - O som é uma onda que se movimenta com um sinal alternado.
     - A onda sonora movimenta partículas para frente e para trás, durante seu percurso longitudinal, mas gerando movimentação longitudinal da energia acústica.
