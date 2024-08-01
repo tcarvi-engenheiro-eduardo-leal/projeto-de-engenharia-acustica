@@ -13,8 +13,8 @@
 
 ## Solução:
 - A força será calculada a partir da análise do circuito analógico do módulo de mobilidade.
-- Ou seja:
-
+- Ou seja:  
+  
 | Circuitos Elétricos           |  Sistema Mecânico                         |
 |-------------------------------|-------------------------------------------|
 | XXXXXXXXXXXXX                 | XXXXXXXXXXXXX                             |
