@@ -1,57 +1,46 @@
 # Ondas Sonoras
 - São ondas do tipo **longitudinais**.
     - A oscilação da onda sonora ocorre na direção da sua propagação.
+- O som é uma onda que se movimenta com um sinal alternado.
+    - A onda sonora movimenta partículas para frente e para trás, durante seu percurso longitudinal, mas gerando movimentação longitudinal da energia acústica.
+    - A onda da transmissão do som não é eletromagnética, como a da luz.
+    - O som é transmitido por onda **mecânica**. Sua onda é **vibracional**.
 - Ondas sonoras são caracterizadas por:
     - **Pressão Sonora** (P)  
         - $$ P = \frac{For\char"00E7 aDeMovimenta\char"00E7 ãoDasPartículasDeAr}{ÁreaDaSuperfícieQueSofreAFor\char"00E7 a} $$
+        - É um excesso de pressão sobre a pressão atmosférica.
+        - Vincula-se com a alteração da Força e da Velocidade de Oscilação das Partículas movimentadas pela onda.
     - **Comprimento de Onda**($\lambda$)  
         - $$\lambda = Espa\char"00E7 oDeUmaOscila\char"00E7 ãoDoMovimentoDePartículasDeArNoTrajetoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
+        - Distância, na direção longitudinal, do espaço de repetição oscilatória da onda.
+        - Os comprimentos de onda sonora se encontram entre **17m até 17mm**.
     - **Amplitude de Onda** ($A$)  
         - $$ A = Espa\char"00E7 oMáximoDeOscila\char"00E7 ãoDaOndaEmRela\char"00E7 ãoÀPosi\char"00E7 ãoDeEquilíbrio$$
+        - É a distância máxima que as partículas do meio oscilam, se afastando de suas posições de equilíbrio, devido à onda sonora.
     - **Período de Onda** ($\tau$)
         - $$\tau = TempoDeRepeti\char"00E7 ãoDaOscila\char"00E7 ãoDasPartículasDeArNoPercursoLongituninalDaOnda$$
+        - É o tempo necessário, em segundos, para que uma oscilação longitudinal completa ocorra.
     - **Frequência de Onda**($f$)
         - $$ f = \frac{PercursosDoComprimentoDeOnda}{1 \space segundo} = \frac{1}{\tau}$$
+        - Quantidadades de repetições do movimento oscilatório, na distância do comprimento de onda, durante o tempo de 1 segundo.
+        - As frequências do som, no audível, estão entre **20 Hz e 20KHz**:
+            1.	**Baixa Frequência: 20 Hz a 250 Hz**
+            2.	**Média Frequência: 250 Hz a 4.000 Hz (ou 4 kHz)**
+            3.	**Alta Frequência: 4.000 Hz a 20.000 Hz (ou 20 kHz)**
+        - Pessoas mais jovens geralmente conseguem ouvir melhor as frequências mais altas do que as pessoas mais velhas.
+            - Em muitos casos, a capacidade de ouvir frequências acima de 15.000 Hz diminui significativamente com a idade.
     - **Velocidade de Onda** ($v$)  
         - $$ v = \frac{ComprimentoDaOnda}{PeríodoDaOnda} = \frac{\lambda}{\tau} = \lambda . f $$
+        - Depende da densidade e da elasticidade do meio. 
+        - A velocidade do som no ar, à temperatura de 20 graus celsius, é aproximadamente 343 m/s.
     - **Velocidade de Oscilação das Partículas Movimentas pela Onda**  
         - $$ v_{ParticulasDeAr} = \frac{Espa\char"00E7 oDoMovimentoVibratório}{IntervaloDeTempoDestaParteDoMovimentoVibratório} $$
-    - **Equação Senoidal de Onda**
+        - Velocidade das Partículas movimentas pela onda.
+        - É a velocidade média das moleculas de gás, em um pequeno volume, movimentadas pela onda sonora.
+        - A velocidade muda durante o percurso devido diferenças de pressão, durante a propagação.
+        - Grandeza vetorial que pode ter sua magnitude alterada, durante o percurso longitudinal.
+    - **Equação Senoidal de Onda**:
         - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
-            - $ y(x,t) = A \sin(kx - \omega t + \phi) $
-       - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
-            - $ y(t) = A \sin( \omega t + \phi) $
-    - **Equação Cosenoidal de Onda**
-        - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
-            - $ y(x,t) = A \cos(kx - \omega t + \phi) $
-        - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
-            - $ y(t) = A \cos( \omega t + \phi) $
-## Maior detalhamento dos Conceitos
-- **Pressão Sonora** ($ P $ ):
-    - $$ P = \frac{For\char"00E7 aDeMovimenta\char"00E7 ãoDasPartículasDeAr}{ÁreaDaSuperfícieQueSofreAFor\char"00E7 a} $$
-    - É um excesso de pressão sobre a pressão atmosférica.
-    - Vincula-se com a alteração da Força e da Velocidade de Oscilação das Partículas movimentadas pela onda.
-- **Comprimento de Onda** ($\lambda$):
-    - Distância, na direção longitudinal, do espaço de repetição oscilatória da onda.
-- **Período de Onda** ($\tau$):
-    - É o tempo necessário, em segundos, para que uma oscilação longitudinal completa ocorra.
-- **Frequência de Onda**:
-    - $$ f = \frac{PercursosDoComprimentoDeOnda}{1 \space segundo} = \frac{1}{\tau}$$
-    - Quantidadades de repetições do movimento oscilatório, na distância do comprimento de onda, durante o tempo de 1 segundo.
-- **Velocidade de Onda** ($v$):
-    - $$ \frac{ComprimentoDaOnda}{PeríodoDaOnda} = \frac{\lambda}{\tau} = \lambda . f $$
-    - Depende da densidade e da elasticidade do meio. 
-    - A velocidade do som no ar, à temperatura de 20 graus celsius, é aproximadamente 343 m/s.
-- **Amplitude de Onda** ($A$):
-    - É a distância máxima que as partículas do meio se afastam (oscilam), se afastando de suas posições de equilíbrio, devido à onda sonora.
-- **Velocidade da Oscilação das Partículas Movimentas pela Onda** ($v$)
-    - $$ v_{ParticulasDeAr} = \frac{Espa\char"00E7 oDoMovimentoVibratório}{IntervaloDeTempoDestaParteDoMovimentoVibratório} $$
-    - Velocidade das Partículas movimentas pela onda.
-    - É a velocidade média das moleculas de gás, em um pequeno volume, movimentadas pela onda sonora.
-    - A velocidade muda durante o percurso devido diferenças de pressão, durante a propagação.
-    - Grandeza vetorial que pode ter sua magnitude alterada, durante o percurso longitudinal.
-- **Equação Senoidal de Onda**:
-    - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
             - $ y(x,t) = A \sin(kx - \omega t + \phi) $
                 - onde:
                     - $ y(x,t) $ é o **deslocamento longitudinal** da propagação.
@@ -59,25 +48,25 @@
                     - $ \omega $ é a **frequência angular do movimento senoidal** = $\frac{2 \pi}{\tau} = 2 \pi f$.
                     - $ \phi $ é a **fase inicial do movimento senoidal** que indica o deslocamento inicial da onda no tempo ($t$) = 0 e na posição ($x$) de oscilação = 0.
                     - $ k $ é o **número de onda** = $\frac{2 \pi}{\lambda}$. Indica quantas ondas completas existem por unidade de comprimento. É inversamente proporcional ao comprimento de onda ($\lambda$).
-    - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
+        - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
             - $ y(t) = A \sin( \omega t + \phi) $
-    - Para onda harmônica simples.
-    - Motivo da escolha desta equação, ao invés da equação cosenoidal:
-        - O valor da função seno é a **amplitude da onda** ($A$)  quando  t = 0 , e quando  $\phi$ também é igual a 0.
-    - Originada da:
-        - equação de movimento
-        - equação da continuidade
-        - e de uma equação de estado que descreve as propriedades termodinâmicas do meio.
-    - Ao se aplicar uma **tensão alternada** em um **circuito análogo de sistema eletroacústico**, surge uma **corrente elétrica (i)**.
-        - Fórmula de tensão alternada:
-            - $ V_{AC}(t) = A \sin( \omega t + \phi) $
-            - onde:
-                - $ V_{AC}(t) $ é a **tensão alternada em função do tempo**.
-                - $ A $ é a **amplitude do movimento senoidal**.
-                - $ \omega $ é a **frequência angular do movimento senoidal** = $2 \pi f$.
-                - $ \phi $ é a **fase inicial do movimento senoidal** que indica o deslocamento inicial da onda no tempo ($t$) = 0 e na posição ($x$) de oscilação = 0.
-- **Equação Cosenoidal de Onda**:
-    - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
+        - Para onda harmônica simples.
+        - Motivo da escolha desta equação, ao invés da equação cosenoidal:
+            - O valor da função seno é a **amplitude da onda** ($A$)  quando  t = 0 , e quando  $\phi$ também é igual a 0.
+        - Originada da:
+            - equação de movimento
+            - equação da continuidade
+            - e de uma equação de estado que descreve as propriedades termodinâmicas do meio.
+        - Ao se aplicar uma **tensão alternada** em um **circuito análogo de sistema eletroacústico**, surge uma **corrente elétrica (i)**.
+            - Fórmula de tensão alternada:
+                - $ V_{AC}(t) = A \sin( \omega t + \phi) $
+                - onde:
+                    - $ V_{AC}(t) $ é a **tensão alternada em função do tempo**.
+                    - $ A $ é a **amplitude do movimento senoidal**.
+                    - $ \omega $ é a **frequência angular do movimento senoidal** = $2 \pi f$.
+                    - $ \phi $ é a **fase inicial do movimento senoidal** que indica o deslocamento inicial da onda no tempo ($t$) = 0 e na posição ($x$) de oscilação = 0.
+    - **Equação Cosenoidal de Onda**:
+        - Considerando **deslocamento** ($x$) da oscilação, **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação: 
             - $ y(x,t) = A \cos(kx - \omega t + \phi) $
                 - onde:
                     - $ y(x,t) $ é o **deslocamento longitudinal** da propagação.
@@ -85,22 +74,8 @@
                     - $ \omega $ é a **frequência angular do movimento cosenoidal** = $\frac{2 \pi}{\tau} = 2 \pi f$.
                     - $ \phi $ é a **fase inicial do movimento cosenoidal** que indica o deslocamento inicial da onda no tempo ($t$) = 0 e na posição ($x$) de oscilação = 0.
                     - $ k $ é o **número de onda** = $\frac{2 \pi}{\lambda}$. Indica quantas ondas completas existem por unidade de comprimento. É inversamente proporcional ao comprimento de onda ($\lambda$).
-    - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
-            - $ y(t) = A \cos( \omega t + \phi) $
-    - Para onda harmônica simples.
-    - Motivo da escolha desta equação, ao invés da equação senoidal:
-        - O valor da função coseno é igual a **zero** quando  t = 0 , e quando  $\phi$ também é igual a 0.
-## Sinais senoidais da acústica
-- O som é uma onda que se movimenta com um sinal alternado.
-    - A onda sonora movimenta partículas para frente e para trás, durante seu percurso longitudinal, mas gerando movimentação longitudinal da energia acústica.
-    - A onda da transmissão do som não é eletromagnética, como a da luz.
-    - O som é transmitido por onda **mecânica**. Sua onda é **vibracional**.
-- As frequências do som, no audível, estão entre **20 Hz e 20KHz**.
-    1.	**Baixa Frequência: 20 Hz a 250 Hz**
-	2.	**Média Frequência: 250 Hz a 4.000 Hz (ou 4 kHz)**
-	3.	**Alta Frequência: 4.000 Hz a 20.000 Hz (ou 20 kHz)**
-- Pessoas mais jovens geralmente conseguem ouvir melhor as frequências mais altas do que as pessoas mais velhas.
-    - Em muitos casos, a capacidade de ouvir frequências acima de 15.000 Hz diminui significativamente com a idade.
-- Os comprimentos de onda se encontram entre **17m até 17mm**.
-- Os valores de **comprimento de onda**, **frequência de onda** e **velocidade** de ondas eletromagnéticas que percorrem um circuito elétrico são **bastante diferentes** dos valores das ondas acústicas. **Não se pode considerar conceitualmente estes valores como iguais**!
-    - **Mesmo com estas diferenças, pode-se usar um circuito elétrico oscilante, análogo com as variáveis da acústica, para a análise da transdução acústica**.
+        - Considerando **deslocamento longitudinal** ($y$) da propagação e o **tempo** ($t$) da propagação, sem considerar o deslocamento ($x$) da oscilação: 
+                - $ y(t) = A \cos( \omega t + \phi) $
+        - Para onda harmônica simples.
+        - Motivo da escolha desta equação, ao invés da equação senoidal:
+            - O valor da função coseno é igual a **zero** quando  t = 0 , e quando  $\phi$ também é igual a 0.

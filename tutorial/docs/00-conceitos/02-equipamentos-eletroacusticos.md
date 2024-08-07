@@ -1,32 +1,12 @@
-# Eletroacústica
+# Equipamentos Eletroacústicos
 
-## Análise da Eletroacústica
-- A análise da eletroacústica pode seguir dois padrões:
-    - **Padrão 1 das "equações diferenciais da física"**:
-        - Energia acústica pensada como ondas quantificadas com equações diferenciais.
-        - Energia elétrica pensada como formada por diferencial de potencial entre terminais de algum condutor. Condutor que passa a ter diferença de potencial devido interações dos campos elétricos e magnéticos. Tais interações também são quantificadas, nesta forma de análise, por equações diferenciais.
-    - **Padrão 2 da "analogia com um circuito elétrico"**:
-        - Inspeciona-se visualmente o processo eletroacústico e se define um circuito que representa uma analogia com um circuito elétrico.
-        - Vincula-se elementos acústicos ao circuito.
-        - Resolve-se o circuito e se conclui a análise eletroacústica.
-            - Elementos do sistema acústico, para a análise eletroacústica de circuitos análogos:
-                - **Compliância acústica**
-                - **Massa**
-                - **Resistência**
-                - **Transformador**
-                - **Gerador**
-        - Os valores de **comprimento de onda**, **frequência de onda** e **velocidade** de ondas eletromagnéticas que percorrem um circuito elétrico são **bastante diferentes** dos valores das ondas acústicas. **Não se pode considerar conceitualmente estes valores como iguais**!
-            - **Mesmo com estas diferenças, pode-se usar um circuito elétrico oscilante, análogo com as variáveis da acústica, para a análise da transdução acústica**.
-
-## Sistemas/Equipamentos da Eletroacústica:
-
-### Produtor de som
+## Produtor de som
 1. Recebe uma tensão elétrica ($V$), medida em volts (V)
 2. Gera som que possui uma pressão sonora ($P$), medida em pascal (Pa).
 3. O som produzido segue alcançando, pelo ar, superfícies de objetos que recebem esta pressão.
 4. A recepção da pressão sonora equivale a recepção acústica do som.
 
-### Equipamento Captador do Som (Microfones)
+## Equipamento Captador do Som (Microfones)
 1. Recepciona ondas sonoras cujas **frequência** ($f$) estão entre 20 Hz e 20 KHz e que possuem **pressão sonora** ($P$).
     - O design do microfone pode ser feito para captar ondas menos direcionais ou para captar ondas mais direcionais. 
 2. As ondas sonoras alcançam a superfície de captação do microfone com certa força ($F$) de movimentação das partículas de ar, ocorrendo a **recepção da pressão sonora** ($P$).
@@ -38,7 +18,7 @@
 4. Mas o sinal elétrico gerado é baixo! Por isso, depois o microfone ainda faz uma **pré-amplificação do sinal elétrico**.
 5. O sinal elétrico, depois desta transdução e depois desta pré-ampliação, e com o mesmo domínio de tempo da fonte acústica, está pronta para a **transmissão**.
 
-### Equipamento Gravador de Som
+## Equipamento Gravador de Som
 1. A cadeia do sistema de gravação começa no microfone que recepciona as pressão sonora fornecida pela fonte sonora.
 2. O microfone, conforme indicado anteriormente, converte o sinal sonoro, no domínio do tempo, em um sinal elétrico equivamente, com o mesmo domínio do tempo.
     - O microfone também faz uma pré-amplificação do sinal elétrico.
@@ -54,16 +34,16 @@
 2. **Amplificação do sinal elétrico**
 3. **Transmissnão do sinal elétrico amplificado**
 
-### Equipamento Processador do Sinal de Áudio
+## Equipamento Processador do Sinal de Áudio
 1. Recepciona dos sinais elétricos equivalentes gerados no processo de transdução.
     - Os sinais elétricos do som representam dados digitais de som **compactados com codecs**.
 2. Decodifica os dados digitais recebidos em valores digitais que podem ser processados pelo equipameto.
 3. Processamento do sinal de áudio.
 
-### Equipamento de Transmissão do Som
+## Equipamento de Transmissão do Som
 - Processo de transmissão dos sinais elétricos equivalentes gerados no processo de transdução.
 
-### Equipamento de Reprodução de Som
+## Equipamento de Reprodução de Som
 - Exemplos:
     - ***Alto-falantes***
     - ***Fones de ouvido***
