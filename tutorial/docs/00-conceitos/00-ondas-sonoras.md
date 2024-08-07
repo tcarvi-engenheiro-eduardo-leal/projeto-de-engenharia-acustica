@@ -5,12 +5,10 @@
     - **Pressão Sonora** (P)  
         - $$ P = \frac{For\char"00E7 aDeMovimenta\char"00E7 ãoDasPartículasDeAr}{ÁreaDaSuperfícieQueSofreAFor\char"00E7 a} $$
     - **Comprimento de Onda**($\lambda$)  
-        - $$\lambda = Espa\char"00E7 oDeRepeti\char"00E7 ãoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
-        - $$\lambda = Espa\char"00E7 oCompletoDaOscila\char"00E7 ãoDoMovimentosDeparículasDeArNoTrajetoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
+        - $$\lambda = Espa\char"00E7 oDeUmaOscila\char"00E7 ãoDoMovimentoDePartículasDeArNoTrajetoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
     - **Amplitude de Onda** ($A$)  
         - $$ A = Espa\char"00E7 oMáximoDeOscila\char"00E7 ãoDaOndaEmRela\char"00E7 ãoÀPosi\char"00E7 ãoDeEquilíbrio$$
     - **Período de Onda** ($\tau$)
-        - $$\tau = TempoDeRepeti\char"00E7 ãoDaPropaga\char"00E7 ãoLongitudinalDaOnda$$
         - $$\tau = TempoDeRepeti\char"00E7 ãoDaOscila\char"00E7 ãoDasPartículasDeArNoPercursoLongituninalDaOnda$$
     - **Frequência de Onda**($f$)
         - $$ f = \frac{PercursosDoComprimentoDeOnda}{1 \space segundo} = \frac{1}{\tau}$$
@@ -32,22 +30,20 @@
 - **Pressão Sonora** ($ P $ ):
     - $$ P = \frac{For\char"00E7 aDeMovimenta\char"00E7 ãoDasPartículasDeAr}{ÁreaDaSuperfícieQueSofreAFor\char"00E7 a} $$
     - É um excesso de pressão sobre a pressão atmosférica.
-    - Vincula-se com a alteração da Força e da Velocidade de Oscilação das Partículas Movimentas pela Onda.
-    - Não se vincula com a alteração da velocidade total do movimento ondulatório, mas apenas com a mudança de velocidade das partículas movimentadas durante o período da oscilação.
+    - Vincula-se com a alteração da Força e da Velocidade de Oscilação das Partículas movimentadas pela onda.
 - **Comprimento de Onda** ($\lambda$):
-    - Distância, na direção longitudinal, até onde a onda se repete.
+    - Distância, na direção longitudinal, do espaço de repetição oscilatória da onda.
 - **Período de Onda** ($\tau$):
     - É o tempo necessário, em segundos, para que uma oscilação longitudinal completa ocorra.
 - **Frequência de Onda**:
     - $$ f = \frac{PercursosDoComprimentoDeOnda}{1 \space segundo} = \frac{1}{\tau}$$
-    - Quantidadades de repetições de movimento na distância do comprimento de onda durante o tempo de 1 segundo.
+    - Quantidadades de repetições do movimento oscilatório, na distância do comprimento de onda, durante o tempo de 1 segundo.
 - **Velocidade de Onda** ($v$):
     - $$ \frac{ComprimentoDaOnda}{PeríodoDaOnda} = \frac{\lambda}{\tau} = \lambda . f $$
     - Depende da densidade e da elasticidade do meio. 
-    - Grandeza vetorial de magnitude constante, se não ocorrer mudanças no meio de propagação.
     - A velocidade do som no ar, à temperatura de 20 graus celsius, é aproximadamente 343 m/s.
 - **Amplitude de Onda** ($A$):
-    - É a distância máxima que as partículas do meio se afastam (oscilam) de suas posições de equilíbrio devido à onda sonora.
+    - É a distância máxima que as partículas do meio se afastam (oscilam), se afastando de suas posições de equilíbrio, devido à onda sonora.
 - **Velocidade da Oscilação das Partículas Movimentas pela Onda** ($v$)
     - $$ v_{ParticulasDeAr} = \frac{Espa\char"00E7 oDoMovimentoVibratório}{IntervaloDeTempoDestaParteDoMovimentoVibratório} $$
     - Velocidade das Partículas movimentas pela onda.
