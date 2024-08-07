@@ -4,9 +4,9 @@
 1. Recebe uma tensão elétrica ($V$), medida em volts (V)
 2. Gera som que possui uma pressão sonora ($P$), medida em pascal (Pa).
 3. O som produzido segue alcançando, pelo ar, superfícies de objetos que recebem esta pressão.
-4. A recepção da pressão sonora equivale a recepção acústica do som.
+    - A recepção da pressão sonora equivale à recepção acústica do som.
 
-## Equipamento Captador do Som (Microfones)
+## Equipamento Captador do Som (Microfone)
 1. Recepciona ondas sonoras cujas **frequência** ($f$) estão entre 20 Hz e 20 KHz e que possuem **pressão sonora** ($P$).
     - O design do microfone pode ser feito para captar ondas menos direcionais ou para captar ondas mais direcionais. 
 2. As ondas sonoras alcançam a superfície de captação do microfone com certa força ($F$) de movimentação das partículas de ar, ocorrendo a **recepção da pressão sonora** ($P$).

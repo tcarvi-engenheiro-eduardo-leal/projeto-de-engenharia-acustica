@@ -5,7 +5,7 @@
     - **Sons referidos como graves**.
         - Exemplos incluem o som de um **trovão** ou o **ronco de um motor**.
         - Têm comprimentos de onda mais longos e podem viajar maiores distâncias sem perder muita energia. Eles são mais difíceis de localizar e podem penetrar através de paredes e outros obstáculos mais facilmente.
-    - O fluxo de oscilação espacial das partículas de ar, nas ondas de mais baixa frequência, é  direcionado para mais direções. (Não há o foco em apenas algumas direções **menos direcional**.)    
+    - O fluxo de oscilação espacial das partículas de ar, nas ondas de mais baixa frequência, é  direcionado para mais direções. (Não há o foco em apenas algumas direções. É **menos direcional**.)    
         - Motivo:
             - Propriedades físicas e geométricas da propagação das ondas. 
             - Ondas de alta frequência têm comprimentos de onda curtos, enquanto ondas de baixa frequência têm comprimentos de onda longos.
@@ -45,7 +45,7 @@
     - Difratam menos e tendem a seguir caminhos mais retos, resultando em uma propagação mais direcional.
 - Ver simulação em: falstad.com
 
-## Microfones apra ondas sonoras de alta frequência
+## Microfones para ondas sonoras de alta frequência
 - Ondas sonoras de alta frequência têm comprimentos de onda mais curtos.
 - Ondas de alta frequência tendem a ser mais direcionais. Elas se propagam em feixes mais estreitos comparados às ondas de baixa frequência, que se espalham mais amplamente.
 - Microfones direcionais, como os microfones cardioides, supercardioides e shotgun, são projetados para captar som predominantemente de uma direção específica.
