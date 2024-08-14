@@ -1,9 +1,3 @@
-# Dependencies
-/projeto/node_modules
-
-# Production
-/projeto/build
-
 # Generated files
 .docusaurus
 .cache-loader
@@ -89,6 +83,9 @@ node_modules/
 # dataconnect generated files
 .dataconnect
 
+# TCARVI
 projeto/.firebaserc
 projeto/firebase.json
+tutorial/node_modules
+tutorial/build
 nao_enviar/
